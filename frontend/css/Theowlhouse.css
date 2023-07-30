@@ -7,6 +7,9 @@
 }
 body
 {
+    
+    color: rgb(253, 253, 253);
+    overflow-x: hidden;
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -15,26 +18,77 @@ body
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: 65% ;
+
+    font-family: 'Noto Sans', sans-serif; 
 }
-#cont
+
 #cont_title
 {
     margin-top: auto;
     text-align: center;
     padding-top: 5% ;
     font-size: 2rem;
-    font-family: 'Noto Sans', sans-serif; 
-    color: rgb(253, 253, 253);
     animation: fade 1s linear;
+}
+#cont_info
+{
+    height: 80%;
+    background-color: #1E1E1E;
+}
+#cont_info > header
+{
+    margin-top: 5%;
+    height: 30%;
+    border-top: 1px solid #252525;
+
 }
 #content_background
 {
     height: 70%;
+    width: 100%;
     margin-top: auto;
     background-image: linear-gradient(to top, #1E1E1E 60%,#00000000);
     background-size: 100%;
 }
+header
+{
+   
+    
+    font-weight: bolder;
+    display: grid;
+    grid-template-columns: 20% auto;
+}
+header > #logo
+{
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    padding: 5%;
+    
+}
+header > #content_link
+{
+    display: flex;
+    justify-content: flex-end;
+    padding: 5%;
+    gap: 1%;
 
+}
+#content_link > #cont_text_total
+{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+
+    gap: 10%;
+}
+#cont_text_total > .cont_text > a
+{
+    color: aliceblue;
+
+}
 @keyframes fade
 {
     0%{opacity: 0;}
