@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\backend\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "c:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\backend\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "c:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\WIN 10 PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\backend\\c#\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "c:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
