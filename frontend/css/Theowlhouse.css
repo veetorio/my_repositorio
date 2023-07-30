@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200&display=swap');
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("https://pbs.twimg.com/media/E1mwnQzXoAI0yeJ.jpg:large");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 65% ;
+}
+#cont_title
+{
+    margin-top: auto;
+    text-align: center;
+    padding-top: 5% ;
+    font-size: 2rem;
+    font-family: 'Noto Sans', sans-serif; 
+    color: rgb(253, 253, 253);
+    animation: fade 1s linear;
+}
+#content_background
+{
+    height: 70%;
+    margin-top: auto;
+    background-image: linear-gradient(to top, #1E1E1E 60%,#00000000);
+    background-size: 100%;
+}
+
+@keyframes fade
+{
+    0%{opacity: 0;}
+    50%{opacity: 0.5;}
+    100%{opacity: 1;}
+}
