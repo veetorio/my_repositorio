@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\c#"
+    "\\c#",
+    "\\c#\\curso c#",
+    "\\c#\\curso c#\\Aula01"
   ],
-  "SelectedNode": "\\c#\\ConsoleApp1",
+  "SelectedNode": "\\c#\\curso c#\\Aula01\\auxprincipal.cs",
   "PreviewInSolutionExplorer": false
 }
