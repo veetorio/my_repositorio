@@ -1,0 +1,15 @@
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\obj\Debug\net7.0\Trabalho02(calculadora).csproj.AssemblyReference.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\obj\Debug\net7.0\Trabalho02(calculadora).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\obj\Debug\net7.0\Trabalho02(calculadora).AssemblyInfoInputs.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\obj\Debug\net7.0\Trabalho02(calculadora).AssemblyInfo.cs
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\obj\Debug\net7.0\Trabalho02(calculadora).csproj.CoreCompileInputs.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\bin\Debug\net7.0\Trabalho02(calculadora).exe
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\bin\Debug\net7.0\Trabalho02(calculadora).deps.json
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\bin\Debug\net7.0\Trabalho02(calculadora).runtimeconfig.json
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\bin\Debug\net7.0\Trabalho02(calculadora).dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\bin\Debug\net7.0\Trabalho02(calculadora).pdb
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\obj\Debug\net7.0\Trabalho02(calculadora).dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\obj\Debug\net7.0\refint\Trabalho02(calculadora).dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\obj\Debug\net7.0\Trabalho02(calculadora).pdb
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\obj\Debug\net7.0\Trabalho02(calculadora).genruntimeconfig.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho02(calculadora)\obj\Debug\net7.0\ref\Trabalho02(calculadora).dll

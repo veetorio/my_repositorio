@@ -1,0 +1,15 @@
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\bin\Debug\net7.0\Trabalho01(num_par).exe
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\bin\Debug\net7.0\Trabalho01(num_par).deps.json
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\bin\Debug\net7.0\Trabalho01(num_par).runtimeconfig.json
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\bin\Debug\net7.0\Trabalho01(num_par).dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\bin\Debug\net7.0\Trabalho01(num_par).pdb
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\obj\Debug\net7.0\Trabalho01(num_par).csproj.AssemblyReference.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\obj\Debug\net7.0\Trabalho01(num_par).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\obj\Debug\net7.0\Trabalho01(num_par).AssemblyInfoInputs.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\obj\Debug\net7.0\Trabalho01(num_par).AssemblyInfo.cs
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\obj\Debug\net7.0\Trabalho01(num_par).csproj.CoreCompileInputs.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\obj\Debug\net7.0\Trabalho01(num_par).dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\obj\Debug\net7.0\refint\Trabalho01(num_par).dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\obj\Debug\net7.0\Trabalho01(num_par).pdb
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\obj\Debug\net7.0\Trabalho01(num_par).genruntimeconfig.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\NewEx\Trabalho01(num_par)\obj\Debug\net7.0\ref\Trabalho01(num_par).dll

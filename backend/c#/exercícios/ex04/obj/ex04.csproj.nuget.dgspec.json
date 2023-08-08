@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\exercícios\\ex04\\ex04.csproj": {}
+    "c:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\exercícios\\ex04\\ex04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\exercícios\\ex04\\ex04.csproj": {
+    "c:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\exercícios\\ex04\\ex04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\exercícios\\ex04\\ex04.csproj",
+        "projectUniqueName": "c:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\exercícios\\ex04\\ex04.csproj",
         "projectName": "ex04",
-        "projectPath": "C:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\exercícios\\ex04\\ex04.csproj",
+        "projectPath": "c:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\exercícios\\ex04\\ex04.csproj",
         "packagesPath": "C:\\Users\\WIN 10 PRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\exercícios\\ex04\\obj\\",
+        "outputPath": "c:\\Users\\WIN 10 PRO\\Documents\\Visual Studio 2022\\biblioteca(programas)\\my_repositorio\\backend\\c#\\exercícios\\ex04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
