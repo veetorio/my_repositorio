@@ -1,0 +1,15 @@
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\obj\Debug\net7.0\Foreach.csproj.AssemblyReference.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\obj\Debug\net7.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfo.cs
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\obj\Debug\net7.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\bin\Debug\net7.0\Foreach.exe
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\bin\Debug\net7.0\Foreach.deps.json
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\bin\Debug\net7.0\Foreach.runtimeconfig.json
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\bin\Debug\net7.0\Foreach.dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\bin\Debug\net7.0\Foreach.pdb
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\obj\Debug\net7.0\Foreach.dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\obj\Debug\net7.0\refint\Foreach.dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\obj\Debug\net7.0\Foreach.pdb
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\obj\Debug\net7.0\Foreach.genruntimeconfig.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\aulasC#\Foreach\obj\Debug\net7.0\ref\Foreach.dll
