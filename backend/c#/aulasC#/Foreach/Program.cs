@@ -2,15 +2,14 @@
 
 class Program
 {
-    //ForEach é um tipo de estrutura derep 
+    //ForEach é um tipo de estrutura de repetição que percorre uma array e sintaxe no C# é assim
+    
     static void Main(string[] args)
     {
         string[] nomes = { "ettore", "izian", "leticia"};
-        Console.WriteLine("pesquise um nome:");
-        string sel_nome = Console.ReadLine();
         foreach (string listnome in nomes)
         {
-            console.WriteLine(listnome);
+            Console.WriteLine(listnome);
         }   
     }
 }

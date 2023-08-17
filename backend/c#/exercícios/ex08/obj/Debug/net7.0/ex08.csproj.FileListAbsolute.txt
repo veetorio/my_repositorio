@@ -1,0 +1,15 @@
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\obj\Debug\net7.0\ex08.csproj.AssemblyReference.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\obj\Debug\net7.0\ex08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\obj\Debug\net7.0\ex08.AssemblyInfoInputs.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\obj\Debug\net7.0\ex08.AssemblyInfo.cs
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\obj\Debug\net7.0\ex08.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\bin\Debug\net7.0\ex08.exe
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\bin\Debug\net7.0\ex08.deps.json
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\bin\Debug\net7.0\ex08.runtimeconfig.json
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\bin\Debug\net7.0\ex08.dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\bin\Debug\net7.0\ex08.pdb
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\obj\Debug\net7.0\ex08.dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\obj\Debug\net7.0\refint\ex08.dll
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\obj\Debug\net7.0\ex08.pdb
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\obj\Debug\net7.0\ex08.genruntimeconfig.cache
+C:\Users\WIN 10 PRO\Documents\Visual Studio 2022\biblioteca(programas)\my_repositorio\backend\c#\exercícios\ex08\obj\Debug\net7.0\ref\ex08.dll

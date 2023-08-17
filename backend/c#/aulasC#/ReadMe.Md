@@ -28,9 +28,9 @@
 <ul>
 <li><a href="#Func">Funções</a></li>
 <li><a href="#Array">Array</a></li>
-<li>ForEach</li>
-<li>Enum</li>
-<li>Escopo</li>
+<li><a href="#ForEach">ForEach</a></li>
+<li><a href="#Enum">Enum</a></li>
+<li><a href="#Escopo">Escopo</a></li>
 
 </ul>
 </details>
@@ -72,4 +72,10 @@
 
 <p>
     Array é um tipo de variável que armazena mais de um dado. 
+    <br>
+    e sua sintaxe é desta forma:
+    <br>
+    <span class="void">string</span><span class="nome">[]</span> <span class="static">produtos</span> = {"Maçã","Pera","Macarrão","Abacaxi","Kiwi","Ameixa","Goiaba"};
 </p>
+
+<h2 id="ForEach">ForEach</h2>
