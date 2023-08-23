@@ -10,8 +10,6 @@ public class aula1
         int[] b = {1,2,3};
 
 
-
-
         int i;
         double soma = 0;
 
@@ -24,7 +22,11 @@ public class aula1
             soma += a[i];
         }
         System.out.println(soma/a.length);
-        //foreach é uma estrutura de controle aplicada a arrays que percorre
+        //foreach é uma estrutura de controle aplicada a arrays que percorrer a array
+        for(double nota:b)
+        {
+            System.out.println(nota);
+        }
     }
 
 }
