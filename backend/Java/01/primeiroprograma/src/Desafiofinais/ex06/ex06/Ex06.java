@@ -1,8 +1,8 @@
-package Desafiofinais.ex05.ex06;
+package Desafiofinais.ex06.ex06;
 
 import java.util.Scanner;
 
-public class Ex07
+public class Ex06
 {
     public static void main(String[] args)
     {
@@ -17,7 +17,7 @@ public class Ex07
             System.out.println("Digite algum valor");
             double aposta = leia.nextDouble();
 
-            
+
             if (aposta > random)
             {
                 System.out.println("o valor digitado é maior que o gerado");

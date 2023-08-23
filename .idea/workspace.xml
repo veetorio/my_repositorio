@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8185c3ad-ebea-4b3b-ad0b-58bcf3aa2dd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/Java/01/primeiroprograma/src/Desafiofinais/ex05/Ex05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/Java/01/primeiroprograma/src/Desafiofinais/ex05/ex06/Ex07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Java/01/primeiroprograma/src/Desafiofinais/ex05/Ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Java/01/primeiroprograma/src/Desafiofinais/ex06/Ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Java/01/primeiroprograma/src/Desafiofinais/ex05/ex06/Ex07.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Java/01/primeiroprograma/src/Desafiofinais/ex06/ex06/Ex06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
