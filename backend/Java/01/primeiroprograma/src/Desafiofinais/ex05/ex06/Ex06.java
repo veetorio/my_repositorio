@@ -1,4 +1,4 @@
-package Desafiofinais.ex06.ex06;
+package Desafiofinais.ex05.ex06;
 
 import java.util.Scanner;
 
