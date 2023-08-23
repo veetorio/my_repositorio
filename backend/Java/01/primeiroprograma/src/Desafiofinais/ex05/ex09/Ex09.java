@@ -8,7 +8,7 @@ public class Ex09
     {
         Scanner leia = new Scanner(System.in);
         int i;
-        
+
         System.out.println("Digite algum valor: ");
         double val = leia.nextDouble();
         double comparator = val;
