@@ -9,7 +9,7 @@ public class BancoId_Nome
     Scanner leia = new Scanner(System.in);
     Map<Integer,String > Banco =new HashMap();
 
-    public void armazene()
+    public void Armazene()
     {
         System.out.println("Digite seu nome: ");
         String _nome = leia.nextLine();
@@ -17,13 +17,17 @@ public class BancoId_Nome
         Integer _id = leia.nextInt();
         Banco.put(_id,_nome);
     }
-    public String verificar()
+    public void Verificar()
     {
         System.out.println("coloque sua chave de verificação: ");
-        int _id = leia.nextInt();
-        return "ola";
+        Integer _id = leia.nextInt();
+        String  result = Banco.containsKey(_id)? "Seja bem vindo"+ Banco.get(_id):"nenhum usuário encontrado";
+        System.out.println(result);
+    }
 
-
+    public void Mostrar()
+    {
+        System.out.println(Banco);
     }
 
 }
