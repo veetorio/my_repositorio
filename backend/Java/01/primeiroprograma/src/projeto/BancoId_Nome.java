@@ -8,9 +8,13 @@ public class BancoId_Nome
 {
     Map<Integer,Aluno> banco = new HashMap<>();
 
-    void addAluno()
+    void addAluno(int id,Aluno a)
     {
-        banco.put(2334,new Aluno("Ettore","Física"));
+        banco.put(id,a);
+        for (int Bancoid : banco.keySet())
+        {
+            System.out.println(Bancoid);
+        }
     }
 
 
