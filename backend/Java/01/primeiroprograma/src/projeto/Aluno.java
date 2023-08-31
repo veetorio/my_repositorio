@@ -9,6 +9,15 @@ public class Aluno
         this.nome = Onome;
         this.curso = Ocurso;
     }
+    String retornarNome()
+    {
+        return this.nome;
+    }
+    String retornarCurso()
+    {
+
+        return this.curso;
+    }
 
 
 
