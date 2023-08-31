@@ -8,44 +8,29 @@ public class _Main
 {
     public static void main(String[] args)
     {
-        BancoId_Nome Bank = new BancoId_Nome();
+        BancoId_Nome aluno = new BancoId_Nome();
         Scanner leia = new Scanner(System.in);
-
+        
         boolean loop = true;
-        while (loop == true)
+        while (loop)
         {
+            System.out.println("Digite seu nome");
+            String Mainnome = leia.nextLine();
+            System.out.println("Digite seu curso");
+            String Maincurso = leia.nextLine();
 
-            System.out.println("Seja bem vindo, a um banco simples e fuleiro");
+            System.out.println("digite seu id");
+            int Mainid = leia.nextInt();
+            aluno.addAluno(Mainid,new Aluno(Mainnome,Maincurso));
 
-            System.out.println("Deseja entrar com qual operação:escreva [armazene],[verificar id] ou [mostrar dados] ");
-            String opc = leia.nextLine().toLowerCase();
-            switch (opc)
+            System.out.println("Deseja iniciar ?");
+            String result = leia.nextLine();
+
+            if(result.equals("Sim"))
             {
-                case "armazene":
-                    Bank.Armazene();
-                    break;
-                case "verificar id":
-                    Bank.Verificar();
-                    break;
-                case "mostrar dados":
-                    Bank.Mostrar();
-                    break;
-                default:
-                    System.out.println("Nenhum operador foi selecionado");
-                    break;
+                break;
             }
-
-            System.out.println("Deseja iniciar");
-            String resposta = leia.nextLine().toLowerCase();
-
-            if(resposta.equalsIgnoreCase("não")){break;}
-
-
-
-
-
         }
-
 
 
     }
