@@ -7,15 +7,13 @@ import java.util.Scanner;
 public class BancoId_Nome
 {
     Map<Integer,Aluno> banco = new HashMap<>();
+    Aluno alun;
 
     void addAluno(int id,Aluno a)
     {
         banco.put(id,a);
-        for (int Bancoid : banco.keySet())
-        {
-            System.out.println(Bancoid);
-        }
     }
+    void
 
 
 }
