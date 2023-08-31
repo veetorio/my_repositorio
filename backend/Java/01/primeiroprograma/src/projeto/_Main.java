@@ -10,7 +10,7 @@ public class _Main
     {
         BancoId_Nome aluno = new BancoId_Nome();
         Scanner leia = new Scanner(System.in);
-        
+
         boolean loop = true;
         while (loop)
         {
