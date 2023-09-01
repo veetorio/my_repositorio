@@ -1,4 +1,4 @@
-package meuproj;
+package Desafio.Desafio02.Content.meuproj;
 
 public class princi
 {

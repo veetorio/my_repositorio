@@ -10,15 +10,12 @@ public class _Main
     {
         BancoId_Nome aluno = new BancoId_Nome();
         Scanner leia = new Scanner(System.in);
-<<<<<<< HEAD
 
         boolean loop = true;
         while (loop)
-=======
-        
+
 
         while (true)
->>>>>>> 9ddfaf5d26daf4124d6d806fa434824029b0692f
         {
             System.out.println("Deseja iniciar ?");
             String result = leia.next();
