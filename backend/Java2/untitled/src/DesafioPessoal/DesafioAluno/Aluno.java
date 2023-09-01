@@ -2,7 +2,7 @@ package DesafioPessoal.DesafioAluno;
 
 public class Aluno
 {
-    String aluno;
+    String nome;
     String Matricula;
     int idade;
 
@@ -18,7 +18,7 @@ public class Aluno
              this.Matricula = "aluno não registrado";
          }
 
-         this.aluno = _nome;
+         this.nome = _nome;
          this.idade = _idade;
      }
 

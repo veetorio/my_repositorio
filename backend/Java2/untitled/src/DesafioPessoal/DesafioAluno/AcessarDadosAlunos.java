@@ -7,8 +7,7 @@ import java.util.List;
 
 public class AcessarDadosAlunos
 {
-    List Alunos = new ArrayList<>();
-
+    List<Aluno> Alunos = new ArrayList<>();
     void addAlunos(Aluno a)
     {
         Alunos.add(a);
@@ -19,11 +18,7 @@ public class AcessarDadosAlunos
     }
     void exibirStats()
     {
-
-        for(int i = 0;i < Alunos.size();i++)
-        {
-            System.out.println(Alunos.get(i));
-        }
+        System.out.println(Alunos.toString());
     }
 
 
