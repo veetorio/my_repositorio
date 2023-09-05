@@ -14,14 +14,10 @@ public class Test
         g.adicionarCarro(b);
         g.adicionarCarro(c);
 
-<<<<<<< HEAD
         g.removeCarro("hyundai");
         g.procurarCarro("kwid");
-=======
         g.procurarCarro("hyundai");
-        g.procurarCarro("fiat");
->>>>>>> 4e82515e14548e5820cf1bb743747ca3b32ee815
-        g.mostrarLista();
+        g.procurarCarro("fiat");g.mostrarLista();
 
 
 
