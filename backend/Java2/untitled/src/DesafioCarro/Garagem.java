@@ -16,29 +16,33 @@ public class Garagem
     }
     void removeCarro(String model)
     {
-        for (int i = 0;i < garagem.size();i++)
-        if(model.equals(garagem.get(i).getModelo()))
+        int i = 0;
+        for (Carro c : garagem)
         {
-            garagem.remove(garagem.get(i));
+            if (model.equals(c.getModelo())) {
+                garagem.remove(garagem.get(i));
+            }
         }
+        i++;
     }
 
 
     void mostrarLista()
     {
-        for (int i = 0;i < garagem.size();i++)
+        for (Carro c: garagem)
         {
-            System.out.println(garagem.get(i).getNomeMotorista() +" => "+garagem.get(i).getModelo());
+            System.out.println(c.getNomeMotorista() +"=>"+ c.getModelo());
         }
 
     }
 
     void procurarCarro(String model)
     {
-        for (int i = 0;i < garagem.size();i++)
+        for (Carro c : garagem)
         {
-            if (model.equals(garagem.get(i).getModelo())) {
-                System.out.println("carro encontrado " + garagem.get(i).getModelo());
+            if (model.equals(c.getModelo()))
+            {
+                System.out.println("carro encontrado " + model);
                 break;
             }
         }
