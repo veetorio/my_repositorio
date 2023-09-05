@@ -1,11 +1,12 @@
 let main = document.getElementById("content_main")
-let select = document.getElementById("select")
 const result = document.getElementById("result")
 
 let cnt = 0;
 function abrir()
 {
+    var select = document.getElementById("select")
     let input = document.getElementById("TempCalc")
+
     let temperatura = medida();
     const CaixaResposta1 = document.createElement("div");
     const CaixaResposta2 = document.createElement("div");
