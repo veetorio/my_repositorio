@@ -14,7 +14,7 @@ public class Test
         g.adicionarCarro(b);
         g.adicionarCarro(c);
 
-        g.procurarCarro("kiwid");
+        g.procurarCarro("hyundai");
         g.procurarCarro("fiat");
         g.mostrarLista();
 
