@@ -75,10 +75,10 @@ function Conversor()
             return input.value
             break
         case "Kelvin":
-            return (parseInt(input.value) + 273)
+            return (parseFloat(input.value) + 273)
             break
             case "Fahrenheit":
-            return ((parseInt(input.value)*9/5)+32)
+            return ((parseFloat(input.value)*9/5)+32)
             break
     }
 }
