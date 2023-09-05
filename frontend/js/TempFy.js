@@ -1,9 +1,8 @@
 let main = document.getElementById("content_main")
 let select = document.getElementById("select")
-
 const result = document.getElementById("result")
-let cnt = 0;
 
+let cnt = 0;
 function abrir()
 {
     let input = document.getElementById("TempCalc")
