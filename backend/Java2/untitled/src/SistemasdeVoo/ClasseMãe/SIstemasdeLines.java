@@ -9,6 +9,6 @@ import java.util.Objects;
 
 public interface SIstemasdeLines
 {
-    default void reservas(int assentos,int assento, Passageiro p){}
+    default void reservas(int assento, Passageiro p){}
     default void MostrarPassageiros(){}
 }
