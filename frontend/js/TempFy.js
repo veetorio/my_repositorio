@@ -1,9 +1,9 @@
 let main = document.getElementById("content_main")
+const result = document.getElementById("result")
 let select = document.getElementById("select")
 let input = document.getElementById("TempCalc")
-const result = document.getElementById("result")
-let cnt = 0;
 
+let cnt = 0;
 function abrir()
 {
     let temperatura = medida();
@@ -76,10 +76,10 @@ function Conversor()
             return input.value
             break
         case "Kelvin":
-            return (parseInt(input.value) + 273)
+            return (parseFloat(input.value) + 273)
             break
             case "Fahrenheit":
-            return ((parseInt(input.value)*9/5)+32)
+            return ((parseFloat(input.value)*9/5)+32)
             break
     }
 }
