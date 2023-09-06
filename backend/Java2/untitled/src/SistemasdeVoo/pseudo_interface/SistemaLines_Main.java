@@ -8,48 +8,50 @@ public class SistemaLines_Main
     private Azul azul = new Azul();
     private Qatar qatar = new Qatar();
     private Gol gol = new Gol();
+    static public int qtd;
     private Scanner leia = new Scanner(System.in);
 
     void reservarAzul()
     {
-        int i = 0;
-        if(azul.vagasAzul())
+        if(vagas())
         {
-            System.out.println("Deseja fazer quantas reservas ?");
-            int reservasVer = Integer.parseInt(leia.next());
-            do
-            {
-                System.out.println("Qual seu Nome :");
-                String nome = leia.next();
-                System.out.println("Qual seu destino");
-                String local = leia.next();
-                System.out.println("Qual seu assento");
-                int assento = Integer.parseInt(leia.next());
-                if (!azul.vagasAzul())
-                {
-                    Passageiro p = new Passageiro(nome, local);
-                    azul.reservaAzul.put(assento, p);
-                }else
-                {
-                    System.out.println("seu assento excede o limite!");
-                }
-                i++;
-            }
-            while (i < reservasVer);
+                    System.out.println("Coloque seu nome: ");
+                    String nome = leia.next();
+                    System.out.println("Coloque seu destino: ");
+                    String local = leia.next();
+                    System.out.println("Qual seu assento: ");
+                    int assento = Integer.parseInt(leia.next());
+
+                    azul.reservas(assento, new Passageiro(nome, local));
         }
         else
         {
-            System.out.println("Não há vagas");
+            System.out.println("não há vagas");
         }
     }
     void assentosAzul()
     {
+
         azul.MostrarPassageiros();
     }
 
     void reservarGol(int assento,Passageiro a)
     {
-        gol.reservas(assento,a);
+        if(vagas())
+        {
+            System.out.println("Coloque seu nome: ");
+            String nome = leia.next();
+            System.out.println("Coloque seu destino: ");
+            String local = leia.next();
+            System.out.println("Qual seu assento: ");
+            int assento = Integer.parseInt(leia.next());
+
+            gol.reservas(assento, new Passageiro(nome, local));
+        }
+        else
+        {
+            System.out.println("não há vagas");
+        }
     }
     void assentosGol()
     {

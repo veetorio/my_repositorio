@@ -2,5 +2,5 @@ package SistemasdeVoo.ClasseMãe;
 
 public class ClasseLinesM
 {
-    protected int limite = 5;
+    protected int limite = 2 ;
 }

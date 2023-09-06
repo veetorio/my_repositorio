@@ -17,7 +17,7 @@ public class Main extends ClasseLinesM
         System.out.println("-_-_-_-_-_Seja bem vindo ao Sistema de Voos e Reservas _-_-_-_-_");
         while (true)
         {
-            System.out.println("\n _-_-_-Gol-_-_-Azul_-_-_Qatar");
+            System.out.println("\n _-_-_-Gol-_-_-Azul_-_-_Qatar-_-_-_-");
             System.out.println("Escolha sua linhas");
             String opc = leia.next();
 
@@ -58,8 +58,6 @@ public class Main extends ClasseLinesM
                 break;
             }
         }
-
-
 
     }
 }
