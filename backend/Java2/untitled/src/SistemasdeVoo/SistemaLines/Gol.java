@@ -17,9 +17,21 @@ public class Gol extends ClasseLinesM implements SIstemasdeLines
     @Override
     public void MostrarPassageiros()
     {
-        for (int i = 0;i <= reservaGol.size();i++)
+        for (Passageiro p : reservaGol.values())
         {
-            System.out.println(reservaGol.keySet()+" ==> "+reservaGol.values());
+            System.out.println("Assento: "+ reservaGol.keySet() +" => "+ p.getNome() +":"+p.getLugar());
         }
+    }
+    public boolean vagasGol()
+    {
+        if((reservaGol.isEmpty()) || (reservaGol.size() <= ReservasTot))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+
     }
 }

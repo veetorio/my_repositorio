@@ -13,7 +13,7 @@ public class SistemaLines_Main
 
     void reservarAzul()
     {
-        if(vagas())
+        if(vagasAzul())
         {
                     System.out.println("Coloque seu nome: ");
                     String nome = leia.next();
@@ -35,18 +35,18 @@ public class SistemaLines_Main
         azul.MostrarPassageiros();
     }
 
-    void reservarGol(int assento,Passageiro a)
+    void reservarGol()
     {
-        if(vagas())
+        if(vagasGol())
         {
             System.out.println("Coloque seu nome: ");
             String nome = leia.next();
             System.out.println("Coloque seu destino: ");
             String local = leia.next();
             System.out.println("Qual seu assento: ");
-            int assento = Integer.parseInt(leia.next());
+            int assentoGol = Integer.parseInt(leia.next());
 
-            gol.reservas(assento, new Passageiro(nome, local));
+            gol.reservas(assentoGol, new Passageiro(nome, local));
         }
         else
         {
@@ -58,22 +58,43 @@ public class SistemaLines_Main
         gol.MostrarPassageiros();
     }
 
-    void reservarQatar(int assento,Passageiro a)
+    void reservarQatar()
     {
-        qatar.reservas(assento,a);
+        if(vagasQatar())
+        {
+            System.out.println("Coloque seu nome: ");
+            String nome = leia.next();
+            System.out.println("Coloque seu destino: ");
+            String local = leia.next();
+            System.out.println("Qual seu assento: ");
+            int assentoQatar = Integer.parseInt(leia.next());
+
+            gol.reservas(assentoQatar, new Passageiro(nome, local));
+        }
+        else
+        {
+            System.out.println("não há vagas");
+        }
     }
     void assentosQatar()
     {
         qatar.MostrarPassageiros();
     }
-
     public int getLimite()
     {
         return azul.ReservasTot;
     }
-    boolean vagas()
+    boolean vagasAzul()
     {
         return azul.vagasAzul();
+    }
+    boolean vagasGol()
+    {
+        return gol.vagasGol();
+    }
+    boolean vagasQatar()
+    {
+        return qatar.vagasQatar();
     }
 }
 

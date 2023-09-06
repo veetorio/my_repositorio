@@ -23,4 +23,16 @@ public class Qatar extends ClasseLinesM implements SIstemasdeLines
             System.out.println(reservaQatar.keySet()+" ==> "+reservaQatar.values());
         }
     }
+    public boolean vagasQatar()
+    {
+        if((reservaQatar.isEmpty()) || (reservaQatar.size() <= ReservasTot))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+
+    }
 }

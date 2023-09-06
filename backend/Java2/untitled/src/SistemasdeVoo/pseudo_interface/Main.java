@@ -40,10 +40,36 @@ public class Main extends ClasseLinesM
                     }
                     break;
                 case "gol":
-
+                    System.out.println("Deseja fazer uma reserva ou dados do passageiro");
+                    String opcGol = leia.next();
+                    switch (opcGol.toLowerCase())
+                    {
+                        case "reserva":
+                            system.reservarGol();
+                            break;
+                        case "dados":
+                            system.assentosGol();
+                            break;
+                        default:
+                            System.out.println("nenhum foi selecionado");
+                            break;
+                    }
                     break;
                 case"qatar":
-                    System.out.println("jaum");
+                    System.out.println("Deseja fazer uma reserva ou dados do passageiro");
+                    String opcQatar = leia.next();
+                    switch (opcQatar.toLowerCase())
+                    {
+                        case "reserva":
+                            system.reservarQatar();
+                            break;
+                        case "dados":
+                            system.assentosQatar();
+                            break;
+                        default:
+                            System.out.println("nenhum foi selecionado");
+                            break;
+                    }
                     break;
             }
 
