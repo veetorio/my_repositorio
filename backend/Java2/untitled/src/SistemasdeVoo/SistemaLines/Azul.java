@@ -26,7 +26,8 @@ public class Azul extends ClasseLinesM implements SIstemasdeLines
     }
     public boolean vagasAzul()
     {
-        if(reservaAzul.size() <= ReservasTot){return true;}
-        else{return false;}
+        if(reservaAzul.size() <= ReservasTot){return false;}
+        else {return true;}
+
     }
 }

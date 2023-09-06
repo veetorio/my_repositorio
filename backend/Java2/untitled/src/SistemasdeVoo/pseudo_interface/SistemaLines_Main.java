@@ -10,17 +10,37 @@ public class SistemaLines_Main
     private Gol gol = new Gol();
     private Scanner leia = new Scanner(System.in);
 
-    void reservarAzul(int assento,Passageiro a)
+    void reservarAzul()
     {
-        if(azul.reservaAzul.size() < azul.ReservasTot)
+        int i = 0;
+        if(azul.vagasAzul())
         {
-            azul.reservas(assento,a);
+            System.out.println("Deseja fazer quantas reservas ?");
+            int reservasVer = Integer.parseInt(leia.next());
+            do
+            {
+                System.out.println("Qual seu Nome :");
+                String nome = leia.next();
+                System.out.println("Qual seu destino");
+                String local = leia.next();
+                System.out.println("Qual seu assento");
+                int assento = Integer.parseInt(leia.next());
+                if (!azul.vagasAzul())
+                {
+                    Passageiro p = new Passageiro(nome, local);
+                    azul.reservaAzul.put(assento, p);
+                }else
+                {
+                    System.out.println("seu assento excede o limite!");
+                }
+                i++;
+            }
+            while (i < reservasVer);
         }
         else
         {
-            System.out.println("não há vagas");
+            System.out.println("Não há vagas");
         }
-
     }
     void assentosAzul()
     {

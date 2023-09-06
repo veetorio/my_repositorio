@@ -17,75 +17,35 @@ public class Main extends ClasseLinesM
         System.out.println("-_-_-_-_-_Seja bem vindo ao Sistema de Voos e Reservas _-_-_-_-_");
         while (true)
         {
+            System.out.println("\n _-_-_-Gol-_-_-Azul_-_-_Qatar");
             System.out.println("Escolha sua linhas");
             String opc = leia.next();
 
             switch (opc.toLowerCase())
             {
                 case "azul":
-                    System.out.println("Deseja fazer alguma reserva ou ver os passageiros ");
-                    String opc2 = leia.next();
-                    if (opc2.equals("reserva"))
+                    System.out.println("Deseja fazer uma reserva ou dados do passageiro");
+                    String opcAzul = leia.next();
+                    switch (opcAzul.toLowerCase())
                     {
-                        System.out.println("quantas reservas ?");
-                        int reserva = Integer.parseInt(leia.next());
-                        if(reserva <= system.getLimite())
-                        {
-                            for(int i = 0;i < reserva;i++)
-                            {
-                                if(system.vagas() == true)
-                                {
-                                    System.out.println("Qual seu nome ?:");
-                                    String nome = leia.next();
-                                    System.out.println("Qual seu destino ?:");
-                                    String destino = leia.next();
-                                    System.out.println("Qual seu assento");
-                                    int assento = Integer.parseInt(leia.next());
-                                    Passageiro p = new Passageiro(nome,destino);
-                                    system.reservarAzul(assento,p);
-                                }
-                                else
-                                {
-                                    System.out.println("não há vagas");
-                                    break;
-                                }
-                            }
-                        }
-                        else
-                        {
-                            System.out.println("seu assento excede o limite");
+                        case "reserva":
+                            system.reservarAzul();
                             break;
-                        }
-                    }
-                    else if (opc2.equals("passageiros"))
-                    {
-                        system.assentosAzul();
+                        case "dados":
+                            system.assentosAzul();
+                            break;
+                        default:
+                            System.out.println("nenhum foi selecionado");
+                            break;
                     }
                     break;
                 case "gol":
-                    System.out.println("let");
+
                     break;
                 case"qatar":
                     System.out.println("jaum");
                     break;
             }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
