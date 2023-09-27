@@ -9,7 +9,7 @@ public class MainP {
 
         civic = new Ferrari();
 
-        System.out.println(civic.);
+        System.out.println();
 
 
     }
